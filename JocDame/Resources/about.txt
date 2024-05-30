@@ -1,0 +1,11 @@
+﻿Name: Ghita Valentin-Gabriel	
+Mail: valentin.ghita@student.unitbv.ro
+Group: 10LF222
+
+
+Description: 
+
+Checkers is a two-player board game played on an 8x8 grid, using red and white pieces. Players alternate moves, diagonally advancing pieces towards the opponent's side.
+Reaching the far end transforms a piece into a "king," allowing it to move both forwards and backwards. Captures are made by jumping over an opponent's piece, with 
+multiple jumps allowed if successive captures are possible. The game ends when one player loses all their pieces. The application tracking this game also records 
+wins and allows game states to be saved and resumed.

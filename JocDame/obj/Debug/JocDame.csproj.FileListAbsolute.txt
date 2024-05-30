@@ -1,0 +1,16 @@
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.csproj.AssemblyReference.cache
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\App.g.cs
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame_MarkupCompile.cache
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame_MarkupCompile.lref
+C:\aFAC\MAP\JocDame\JocDame\bin\Debug\JocDame.exe.config
+C:\aFAC\MAP\JocDame\JocDame\bin\Debug\JocDame.exe
+C:\aFAC\MAP\JocDame\JocDame\bin\Debug\JocDame.pdb
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.g.resources
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.Properties.Resources.resources
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.csproj.GenerateResource.cache
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.csproj.CoreCompileInputs.cache
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.exe
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\JocDame.pdb
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\Views\MainWindow.g.cs
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\Views\MainWindow.baml
+C:\aFAC\MAP\JocDame\JocDame\obj\Debug\GeneratedInternalTypeHelper.g.cs
